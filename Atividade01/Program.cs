@@ -7,15 +7,15 @@ namespace Atividade01
     {
         static void Main(string[] args)
         {
-            Interface.MainTitle();
+            Write.MainTitle();
             while (true)
             {
-                Interface.MainMenu();
+                Write.MainMenu();
                 int menuOption = Validators.IsInt(1, 2);
                 switch (menuOption) 
                 {
                     case 1: Triangle.NewTriangle(); break;
-                    case 2: Interface.Goodbye(); return;
+                    case 2: Write.Goodbye(); return;
                 }                              
             }
         }
