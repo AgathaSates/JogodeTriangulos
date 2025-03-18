@@ -1,11 +1,12 @@
 # Jogo de Triangulos
 
-![Status Finalizado](https://img.shields.io/badge/Status-Finalizado-green?color=Green)
+![Status Desenvolvimento](https://img.shields.io/badge/Status-Em%20Desenvolvimento%20-yellow)
+
 
 ### Demonstração
 Este programa tem sua principal função classificar 3 medidas dadas pelo usuário como um triângulo Equilátero, Isósceles, Escaleno ou se não formam um triângulo.
 >
->![Demonstração do Projeto, gif imgur](https://i.imgur.com/dyMnASe.gif)
+>![Demonstração do Projeto, gif imgur]()
 
 ## Índice
 
@@ -16,13 +17,11 @@ Este programa tem sua principal função classificar 3 medidas dadas pelo usuário 
 
 ## Introdução
 
-O programa verifica 3 medidas inseridas pelo usuário e classificar em um tipo válido de triângulo, após cada verificação é possivel verificar uma nova medida.
+O programa verifica 3 medidas inseridas pelo usuário e classifica em um tipo válido de triângulo.
 
 ## Funcionalidades
 
 - **Classificação de Triângulos:** Com base nas medidas inseridas o programa classifica em um tipo de triângulo válido.
-- **Validação de entrada:** Garante que apenas as opções válidas sejam aceitas.
-- **Ciclo do programa:** Pode ser verificado infinitos triângulos até o usúario escolher sair.
 
 ## Como Usar
 
