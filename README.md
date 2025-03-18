@@ -6,7 +6,7 @@
 ### Demonstração
 Este programa tem sua principal função classificar 3 medidas dadas pelo usuário como um triângulo Equilátero, Isósceles, Escaleno ou se não formam um triângulo.
 >
->![Demonstração do Projeto, gif imgur]()
+>![Demonstração do Projeto, gif imgur](https://i.imgur.com/KB4BWFI.gif)
 
 ## Índice
 
