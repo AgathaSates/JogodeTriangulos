@@ -3,61 +3,25 @@
 ![Status Desenvolvimento](https://img.shields.io/badge/Status-Em%20Desenvolvimento%20-yellow)
 
 
-### DemonstraÁ„o
-Este programa tem sua principal funÁ„o classificar 3 medidas dadas pelo usu·rio como um tri‚ngulo Equil·tero, IsÛsceles, Escaleno ou se n„o formam um tri‚ngulo.
+### Demonstra√ß√£o
+Este programa tem sua principal fun√ß√£o classificar 3 medidas dadas pelo usu√°rio como um tri√¢ngulo Equil√°tero, Is√≥sceles, Escaleno ou se n√£o formam um tri√¢ngulo.
 >
->![DemonstraÁ„o do Projeto, gif imgur](https://i.imgur.com/KB4BWFI.gif)
+>![Demonstra√ß√£o do Projeto, gif imgur](https://i.imgur.com/KB4BWFI.gif)
 
-## Õndice
+## √çndice
 
-- [IntroduÁ„o](#introducao)
+- [Introdu√ß√£o](#introducao)
 - [Funcionalidades](#funcionalidades)
 - [Como Usar](#como-usar)
 - [Sobre o Projeto](#sobre-o-projeto)
 
-## IntroduÁ„o
+## Introdu√ß√£o
 
-O programa verifica 3 medidas inseridas pelo usu·rio e classifica em um tipo v·lido de tri‚ngulo.
+O programa verifica 3 medidas inseridas pelo usu√°rio e classifica em um tipo v√°lido de tri√¢ngulo.
 
 ## Funcionalidades
 
-- **ClassificaÁ„o de Tri‚ngulos:** Com base nas medidas inseridas o programa classifica em um tipo de tri‚ngulo v·lido.
-
-## Como Usar
-
-### Requisitos
-
-- .NET SDK (recomendado .NET 8.0 ou superior) para compilaÁ„o e execuÁ„o do projeto.
-
-### 1. Clone o repositÛrio.
- 
-```
-git clone https://github.com/AgathaSates/JogodeTriangulos.git
-```
-### 2. Abra o terminal ou o prompt de comando e navegue atÈ a pasta raiz
-
-```
-cd JogodeTriangulos
-
-```
-
-### 3. Utilize o comando abaixo para restaurar as dependÍncias do projeto.
-
-```
-dotnet restore
-```
-
-### 4. Navegue atÈ a pasta do projeto
-
-```
-cd JogodeTriangulos
-```
-
-### 5. Execute o projeto
-
-```
-dotnet run
-```
+- **Classifica√ß√£o de Tri√¢ngulos:** Com base nas medidas inseridas o programa classifica em um tipo de tri√¢ngulo v√°lido.
 
 ## Sobre o Projeto
 Desenvolvido durante o curso Fullstack da [Academia do Programador](https://academiadoprogramador.net) 2025
